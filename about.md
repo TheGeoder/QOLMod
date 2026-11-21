@@ -1,15 +1,13 @@
-# QOLMod
+# Master HackMenu
 
-QOLMod is The **Best** Free Mod Menu, It has a user friendly interface with over <ca>70 features</c> to help improve your <cg>Geometry Dash</c> experience such as **Startpos Switcher**, **Show Hitboxes**, **Speedhack**, **Solid Wave Trail** and **much** more.
+a free mod menu for geometry dash, with **very very user friendly interface** and **over 70 features** to help improve your geometry dash experience such as **speedhack, show hitboxes, startpos switcher, solid wave trail** and **so much** more! :3
 
-## How to use.
-On Android / iOS:
-- Press the button on your screen to open the mod menu.
+# How to use
 
-On Windows / Mac:
-- Press **Tab** on your keyboard
-- You can assign keybinds to mods by pressing the **keyboard** button in the bottom right of a mods info popup
+- On Windows and Mac, press **Space** on your keyboard.
+- On Android, press the button on your screen to open the mod menu.
 
-## Support
+# Credits
 
-Join the [Discord Server](https://discord.gg/DfQSTEnQKK) for support, bug reports and more.
+> Category icons
+>> https://www.flaticon.com/
